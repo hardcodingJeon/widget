@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    //3
+    //4
     private ProgressDialog pd; // 프로그레스바 선언
 
 
